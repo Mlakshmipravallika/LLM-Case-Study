@@ -1,0 +1,2 @@
+# Core engine, CLI, and Web UI run on Python 3.9+ standard library with zero external dependencies!
+# This guarantees instant, offline-safe execution inside the Percipio sandbox.
